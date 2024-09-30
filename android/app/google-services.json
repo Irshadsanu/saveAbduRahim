@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "367190222556",
+    "firebase_url": "https://bloodmoneyapp-bbc1c-default-rtdb.firebaseio.com",
+    "project_id": "bloodmoneyapp-bbc1c",
+    "storage_bucket": "bloodmoneyapp-bbc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367190222556:android:80c6752824ecbec59af619",
+        "android_client_info": {
+          "package_name": "com.spine.bloodmoney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXo51RMuXRoBVzFSwuc40YPg0ThtxqPPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367190222556:android:af2d36acb16af43f9af619",
+        "android_client_info": {
+          "package_name": "com.spine.bloodmoneymonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXo51RMuXRoBVzFSwuc40YPg0ThtxqPPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367190222556:android:3551428ec7d2a3459af619",
+        "android_client_info": {
+          "package_name": "com.spine.bocheyachakafund"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXo51RMuXRoBVzFSwuc40YPg0ThtxqPPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
